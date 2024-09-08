@@ -1,0 +1,24 @@
+{
+  "originHash" : "bd9fcf3ef61fa3193c637b6cab7702eba03b8d3f225e793008ed1ece6ec68e39",
+  "pins" : [
+    {
+      "identity" : "locationapp",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/runovso/LocationApp",
+      "state" : {
+        "revision" : "1011c3a713a696d12f6fe65f57e662adc67e4b2c",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "weatherapp",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/runovso/WeatherApp",
+      "state" : {
+        "revision" : "54be44ca5de17f9ea919dc28a9d8f27aeea9360d",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 3
+}
